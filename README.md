@@ -1,0 +1,1 @@
+# Random Helper Functions for my random projects
